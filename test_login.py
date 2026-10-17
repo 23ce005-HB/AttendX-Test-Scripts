@@ -6,6 +6,7 @@ def test_login():
     assert password != ""
 
     print("Login test passed")
+    print("Login input validation completed")
 
 
 if __name__ == "__main__":
